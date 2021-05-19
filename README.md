@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrunlikeliest
 - 👀 I’m interested in the intersection of Cybersecurity and Machine Learning
-- 🌱 I’m currently learning Biometric authentication and different ML techniques used in Security.
+- 🌱 I’m currently learning Biometric authentication and different ML techniques applied in Computer Security.
 - 💞️ I’m looking to collaborate on same.
 - 📫 How to reach me -Email me- shubhamupadhyay018@gmail.com
 

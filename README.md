@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mrunlikeliest
 - 👀 I’m interested in the intersection of Cybersecurity and Machine Learning
-- 🌱 I’m currently learning Biometric authentication and different ML techniques applied in Computer Security.
-- 💞️ I’m looking to collaborate on the same.
-- 📫 How to reach me -Email- shubhamupadhyay018@gmail.com
+- 🌱 I’m currently doing my masters in Cyebrsecurity and looking for people who are passionate about this field of work.
+- 📫 How to reach me -Email- upadhyay.shu@northeastern.edu // shubhamupadhyay018@gmail.com
 
 <!---
 mrunlikeliest/mrunlikeliest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
